@@ -22,7 +22,7 @@ date_format = "January 2, 2006"
   company = "Clarity on fruit frost"
   company_url = "https://www.tudelft.nl/agtech-institute/projects/clarity-in-fruit-frost/"
   location = "The Netherlands"
-  date_start = "July 1, 2020"
+  date_start = ""
   date_end = ""
   description = """
 My main job in this project is to quantify the efficiency of engeering method used in frost mitigation such as ventilators, ground sprinkling, hot spot near the surface mostly using numerical simulation.
