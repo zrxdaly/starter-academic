@@ -61,13 +61,13 @@ In this study, we have identified certain fundamental limitations of a mixing le
    - Participated in the proposal for "Water Resources Security Status and Risk Assessment in the Inland Region of Northwest China"
   """
 
-[[experience]]
-  title = "Undergraduate Research Assistant"
-  company = "Project of National Natural Science Foundation"
-  company_url = ""
-  location = "Nanjing, China"
-  date_start = "Jul 2017"
-  date_end = "Jul 2018"
-  description = """  """
+# [[experience]]
+#  title = "Undergraduate Research Assistant"
+#  company = "Project of National Natural Science Foundation"
+#  company_url = ""
+#  location = "Nanjing, China"
+#  date_start = "Jul 2017"
+#  date_end = "Jul 2018"
+#  description = """  """
 
 +++
