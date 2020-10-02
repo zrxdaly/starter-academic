@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Clarity on fruit frost"
   company_url = "https://www.tudelft.nl/agtech-institute/projects/clarity-in-fruit-frost/"
   location = "The Netherlands"
-  date_start = "Jue 2020"
+  date_start = "Jun 2020"
   date_end = ""
   description = """
 My main job in this project is to quantify the efficiency of engeering method used in frost mitigation such as ventilators, ground sprinkling, hot spot near the surface mostly using numerical simulation.
@@ -35,7 +35,7 @@ My main job in this project is to quantify the efficiency of engeering method us
   company_url = ""
   location = "TU Delft"
   date_start = "Dec 2019"
-  date_end = "Jue 2020"
+  date_end = "Jun 2020"
   description = """
 In this study, we have identified certain fundamental limitations of a mixing length parameterization used in a popular turbulent kinetic energy-based subgrid-scale model. Replacing this parameterization with a more physically realistic one significantly improves the overall quality of the large-eddy simulations (LESs) of stable boundary layers. For the range of grid sizes considered here (specifically, 1 m -- 12.5 m), the revision dramatically reduces the grid-size sensitivity of the simulations. Most importantly, the revised scheme allows us to reliably estimate the first- and second-order statistics of a well-known LES intercomparison case, even with a coarse grid-size of O(10 m).
   """
