@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "January 2, 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,23 +22,23 @@ date_format = "Jan 2006"
   company = "Clarity on fruit frost"
   company_url = "https://www.tudelft.nl/agtech-institute/projects/clarity-in-fruit-frost/"
   location = "The Netherlands"
-  date_start = "Jul 2020"
+  date_start = "July 1, 2020"
   date_end = ""
   description = """
 My main job in this project is to quantify the efficiency of engeering method used in frost mitigation such as ventilators, ground sprinkling, hot spot near the surface mostly using numerical simulation.
 
   """
 
-[[experience]]
-  title = "Master thesis"
-  company = "Dr. Sukanta Basu"
-  company_url = ""
-  location = "TU Delft"
-  date_start = "Dec 2019"
-  date_end = "Jun 2020"
-  description = """
-  """
-
+# [[experience]]
+#   title = "Master thesis"
+#   company = "Dr. Sukanta Basu"
+#   company_url = ""
+#   location = "TU Delft"
+#   date_start = "Dec 2019"
+#   date_end = "Jun 2020"
+#   description = """
+#   """
+# 
 # [[experience]]
 #   title = "Additial thesis"
 #   company = "Dr. Sukanta Basu"
