@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "January, 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Clarity on fruit frost"
   company_url = "https://www.tudelft.nl/agtech-institute/projects/clarity-in-fruit-frost/"
   location = "The Netherlands"
-  date_start = "Jun 2020"
+  date_start = "June, 2020"
   date_end = ""
   description = """
 My main job in this project is to quantify the efficiency of engeering method used in frost mitigation such as ventilators, ground sprinkling, hot spot near the surface mostly using numerical simulation.
@@ -34,8 +34,8 @@ My main job in this project is to quantify the efficiency of engeering method us
   company = "Dr. Sukanta Basu"
   company_url = ""
   location = "TU Delft"
-  date_start = "Dec 2019"
-  date_end = "Jun 2020"
+  date_start = "December, 2019"
+  date_end = "June, 2020"
   description = """
 In this study, we have identified certain fundamental limitations of a mixing length parameterization used in a popular turbulent kinetic energy-based subgrid-scale model. Replacing this parameterization with a more physically realistic one significantly improves the overall quality of the large-eddy simulations (LESs) of stable boundary layers. For the range of grid sizes considered here (specifically, 1 m -- 12.5 m), the revision dramatically reduces the grid-size sensitivity of the simulations. Most importantly, the revised scheme allows us to reliably estimate the first- and second-order statistics of a well-known LES intercomparison case, even with a coarse grid-size of O(10 m).
   """
@@ -45,8 +45,8 @@ In this study, we have identified certain fundamental limitations of a mixing le
   company = "Dr. Sukanta Basu"
   company_url = ""
   location = "TU Delft"
-  date_start = "Jul 2019"
-  date_end = "Sep 2019"
+  date_start = "July, 2019"
+  date_end = "September, 2019"
   description = """An realistic simulation of Leipzig wind profile (Milder 1931) using WRF"""
 
 [[experience]]
@@ -54,8 +54,8 @@ In this study, we have identified certain fundamental limitations of a mixing le
   company = "China Water Conservancy Hydropower Science Academe"
   company_url = ""
   location = "Beijing, China"
-  date_start = "Jul 2017"
-  date_end = "Sep 2017"
+  date_start = "July, 2017"
+  date_end = "September, 2017"
   description = """main job:
    - Control the pollution emission in Jinan, Build hydraulic model of Xiaoqing River
    - Participated in the proposal for "Water Resources Security Status and Risk Assessment in the Inland Region of Northwest China"
