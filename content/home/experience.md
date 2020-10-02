@@ -37,29 +37,28 @@ My main job in this project is to quantify the efficiency of engeering method us
   date_start = "Dec 2019"
   date_end = "Jun 2020"
   description = """
-In this study, we have identified certain fundamental limitations of a mixing length parameterization used in a popular turbulent kinetic energy-based subgrid-scale model. Replacing this parameterization with a more physically realistic one significantly improves the overall quality of the large-eddy simulations (LESs) of stable boundary layers. For the range of grid sizes considered here (specifically, 1 m -- 12.5 m), the revision dramatically reduces the grid-size sensitivity of the simulations. Most importantly, the revised scheme allows us to reliably estimate the first- and second-order statistics of a well-known LES intercomparison case, even with a coarse grid-size of O(10 m).
   """
 
-[[experience]]
-  title = "Additial thesis"
-  company = "Dr. Sukanta Basu"
-  company_url = ""
-  location = "TU Delft"
-  date_start = "Jul 2019"
-  date_end = "Sep 2019"
-  description = """An realistic simulation of Leipzig wind profile (Milder 1931) using WRF"""
+# [[experience]]
+#   title = "Additial thesis"
+#   company = "Dr. Sukanta Basu"
+#   company_url = ""
+#   location = "TU Delft"
+#   date_start = "Jul 2019"
+#   date_end = "Sep 2019"
+#   description = """An realistic simulation of Leipzig wind profile (Milder 1931) using WRF"""
 
-[[experience]]
-  title = "Internship"
-  company = "China Water Conservancy Hydropower Science Academe"
-  company_url = ""
-  location = "Beijing, China"
-  date_start = "Jul 2017"
-  date_end = "Sep 2017"
-  description = """main job:
-   - Control the pollution emission in Jinan, Build hydraulic model of Xiaoqing River
-   - Participated in the proposal for "Water Resources Security Status and Risk Assessment in the Inland Region of Northwest China"
-  """
+# [[experience]]
+#  title = "Internship"
+#  company = "China Water Conservancy Hydropower Science Academe"
+#  company_url = ""
+#  location = "Beijing, China"
+#  date_start = "Jul 2017"
+#  date_end = "Sep 2017"
+#  description = """main job:
+#   - Control the pollution emission in Jinan, Build hydraulic model of Xiaoqing River
+#   - Participated in the proposal for "Water Resources Security Status and Risk Assessment in the Inland Region of #Northwest China"
+#  """
 
 # [[experience]]
 #  title = "Undergraduate Research Assistant"
